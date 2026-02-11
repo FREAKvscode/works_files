@@ -17,3 +17,13 @@ if __name__ == '__main__':
     read_and_combined('file1.txt', 'file2.txt', 'file3.txt', 'combined.txt')
 
 
+
+
+
+
+
+
+
+
+
+
