@@ -20,7 +20,7 @@ def found_and_count(word, text, search_results):
         f.write(f"Сколько раз оно встречается: {counter}\n")
         f.write(f"В каких строках встречается : {number_line}\n")
 
-    print(lines)
+
 if __name__ == '__main__':
     string = input("Введите слово для поиска: ")
     found_and_count(string, 'text.txt', 'search_results.txt')
